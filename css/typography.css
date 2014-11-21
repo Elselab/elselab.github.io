@@ -127,22 +127,22 @@ caption     { background: #eee; }
 -------------------------------------------------------------- */
 @font-face {
     font-family: 'ntlbold';
-    src: url('ntl-bold3-webfont.eot');
-    src: url('ntl-bold3-webfont.eot?#iefix') format('embedded-opentype'),
-         url('ntl-bold3-webfont.woff') format('woff'),
-         url('ntl-bold3-webfont.ttf') format('truetype'),
-         url('ntl-bold3-webfont.svg#ntlbold') format('svg');
+    src: url('/media/ntl-bold3-webfont.eot');
+    src: url('/media/ntl-bold3-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/media/ntl-bold3-webfont.woff') format('woff'),
+         url('/media/ntl-bold3-webfont.ttf') format('truetype'),
+         url('/media/ntl-bold3-webfont.svg#ntlbold') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'apex_serifbook';
-    src: url('apexserif_book-webfont.eot');
-    src: url('apexserif_book-webfont.eot?#iefix') format('embedded-opentype'),
-         url('apexserif_book-webfont.woff') format('woff'),
-         url('apexserif_book-webfont.ttf') format('truetype'),
-         url('apexserif_book-webfont.svg#apex_serifbook') format('svg');
+    src: url('/media/apexserif_book-webfont.eot');
+    src: url('/media/apexserif_book-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/media/apexserif_book-webfont.woff') format('woff'),
+         url('/media/apexserif_book-webfont.ttf') format('truetype'),
+         url('/media/apexserif_book-webfont.svg#apex_serifbook') format('svg');
     font-weight: normal;
     font-style: normal;
 }
