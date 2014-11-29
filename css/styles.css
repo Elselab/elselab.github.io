@@ -41,12 +41,13 @@
 }
 
 .soXon {
+  font-family: 'dapiferbold';
 }
 
 .soXon span {
-  font-size: 110%;
+  font-size: 86%;
   margin-top: 28px;
-  margin-left: -0.5em;
+  margin-left: -0.8em;
   position: absolute;
 }
 
