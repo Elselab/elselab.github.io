@@ -146,3 +146,16 @@ caption     { background: #eee; }
     font-weight: normal;
     font-style: normal;
 }
+
+@font-face {
+    font-family: 'dapiferbold';
+    src: url('/media/dapifer-bold-webfont.eot');
+    src: url('/media/dapifer-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/media/dapifer-bold-webfont.woff2') format('woff2'),
+         url('/media/dapifer-bold-webfont.woff') format('woff'),
+         url('/media/dapifer-bold-webfont.ttf') format('truetype'),
+         url('/media/dapifer-bold-webfont.svg#dapiferbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
